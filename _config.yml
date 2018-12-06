@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Swoicik
 description: A new kinds of website
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://swoicik.github.io/swiss" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/swiss" # the subpath of your site, e.g. /blog
+url: "http://swoicik.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: swiss # the GitHub repo name for your project
 github_username: swoicik
 
